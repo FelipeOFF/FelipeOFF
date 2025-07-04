@@ -1,13 +1,11 @@
 ## Hi, I'm Felipe
 
-📱 Experienced Mobile Engineer with 7+ years designing and developing Android & iOS apps.<br/>
-🌎 Worked with fintech, music, and tech companies across Brazil and the US.<br/>
-🛠️ Skilled in Flutter, Kotlin, Java, MVVM, and Clean Architecture.<br/>
-🤝 Led cross-functional teams and delivered projects to global markets.<br/>
-🚀 Passionate about innovation, continuous learning, and embracing new challenges.<br/>
-
 # 💫 About Me:
-📱 Experienced Mobile Engineer with 7+ years designing and developing Android & iOS apps.<br>🌎 Worked with fintech, music, and tech companies across Brazil and the US.<br>🛠️ Skilled in Flutter, Kotlin, Java, MVVM, and Clean Architecture.<br>🤝 Led cross-functional teams and delivered projects to global markets.<br>🚀 Passionate about innovation, continuous learning, and embracing new challenges.
+📱 Experienced Mobile Engineer with 7+ years designing and developing Android & iOS apps.<br>
+🌎 Worked with fintech, music, and tech companies across Brazil and the US.<br>
+🛠️ Skilled in Flutter, Kotlin, Java, MVVM, and Clean Architecture.<br>
+🤝 Led cross-functional teams and delivered projects to global markets.<br>
+🚀 Passionate about innovation, continuous learning, and embracing new challenges.
 
 
 ## 🌐 Socials:
